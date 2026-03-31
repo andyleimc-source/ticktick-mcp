@@ -255,3 +255,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+---
+
+## 关注我
+
+<img src="./雷码工坊微信公众号.jpg" alt="雷码工坊笔记微信公众号" width="200" />
+
+**雷码工坊笔记** — 微信扫码关注
